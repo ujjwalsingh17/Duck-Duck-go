@@ -1,6 +1,6 @@
-// Author: Devyash Sanghai
-// Date: November 16th, 2016
-// devyashsanghai@gmail.com
+// Author: Udhav Gupta
+// Date: May, 2020
+// udhavgup@iitk.ac.in
 
 //Contains the Main Class for running the whole code
 
