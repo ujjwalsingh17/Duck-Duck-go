@@ -1,6 +1,6 @@
-// Author: Udhav Gupta
+// Author: Ujjwal Singh
 // Date: May, 2020
-// udhavgup@iitk.ac.in
+// ujjwals@iitk.ac.in
 
 //Contains the Main Class for running the whole code
 
